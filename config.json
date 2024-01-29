@@ -1,0 +1,70 @@
+{
+    "questions": [
+        {
+            "question": "Qual é o ID apresentado in-game?",
+            "answers": null,
+            "correctAnswer": null
+        },
+        {
+            "question": "Qual o nome do Seu personagem",
+            "answers": null,
+            "correctAnswer": null
+        }
+    ],
+    "quiz": [
+        {
+            "question": "01. Qual das alternativas explica o que Roleplay Significa?",
+            "answer": null,
+            "answers": ["Mata-Mata.", "Simular a Fantasia.", "Simular a vida real.", "Role com os Amigos."],
+            "correctAnswer": "Simular a vida real."
+        },
+        {
+            "question": "02. Qual das alternativas explica o que é considerado Anti-RP?",
+            "answer": null,
+            "answers": ["É você cometer infrações de trânsito.", "É você quebrar as regras do servidor.", "Vender drogas em área safe.", "É você fazer rp de bandido."],
+            "correctAnswer": "É você quebrar as regras do servidor."
+        },
+        {
+            "question": "03. Qual das alternativas explica o que é Amor á Vida?",
+            "answer": null,
+            "answers": ["É ter amor próprio.", "Reagir a um assalto.", "É pular de uma ponte para evitar não ser pego.", "É valorizar a sua vida como ela fosse única."],
+            "correctAnswer": "É valorizar a sua vida como ela fosse única."
+        },
+        {
+            "question": "04. Qual das alternativas explica o que é PowerGaming?",
+            "answer": null,
+            "answers": ["É você fazer um rp forçando com os players.", "É você usar informação fora do jogo.", "É abusar da mecânica do jogo.", "É você ter super forças no jogo."],
+            "correctAnswer": "É abusar da mecânica do jogo."
+        },
+        {
+            "question": "05. Qual das alternativas explica o que é MetaGaming?",
+            "answer": null,
+            "answers": ["É você pedir alguém em Casamento.", "É você fazer RP baseado em metas de missões.", "É você usar algo do Discord dentro do Jogo.", "É você jogar usando Discord."],
+            "correctAnswer": "É você usar algo do Discord dentro do Jogo."
+        },
+        {
+            "question": "06. Qual das alternativas explica o que é Combat Logging?",
+            "answer": null,
+            "answers": ["É chamar alguém para lutar.", "É tentar fugir ao ser abordado.", "É entrar em combate na ação.", "É desconectar do servidor para fugir de abordagem."],
+            "correctAnswer": "É desconectar do servidor para fugir de abordagem."
+        },
+        {
+            "question": "07. Se você morrer o que você deverá fazer?",
+            "answer": null,
+            "answers": ["Pedir para um Staff me reviver.", "Reiniciar o FiveM e reentrar no servidor.", "Nenhuma das anteriores.", "Aguardar a contagem terminar para voltar ao RP."],
+            "correctAnswer": "Aguardar a contagem terminar para voltar ao RP."
+        },
+        {
+            "question": "08. Qual das alternativas explica o que é Vehicle Deathmatch?",
+            "answer": null,
+            "answers": ["É matar alguém sem motivo.", "É usar um Veiculo para matar alguém.", "VDM é subir uma montanha com carro de drift.", "É ato de abusar da mecânica do jogo."],
+            "correctAnswer": "É usar um Veiculo para matar alguém."
+        },
+        {
+            "question": "09. Qual das alternativas explica o que se caracteriza Random Deathmatch?",
+            "answer": null,
+            "answers": ["RDM é sacar uma arma e ameaçar alguém.", "RDM é matar alguém sem motivos.", "RDM é usada para quem abusou de bug.", "RDM é atropelar alguém sem motivos."],
+            "correctAnswer": "RDM é matar alguém sem motivos."
+        }
+    ]
+}

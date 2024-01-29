@@ -1,0 +1,21 @@
+############## configuração do bot ##############
+token='' #Token do seu bot (obrigatorio)
+
+############## Configuração do discord ##############
+linkImagem=https://cdn.discordapp.com/attachments/1001506867622723654/1199459086614405120/whitelist.png?ex=65c29e53&is=65b02953&hm=feb4f28659b57e52b6505747d665c322b498a6cddf9cb7d2446740c1b7fd72a1&
+colorButton=Danger     #Primary = (cor azul),  Secondary = (cor cinza), Success = (cor verde), Danger = (cor vermelho)),
+acertosWl=2
+idCategoria='' #ID Categoria da whitelist onde os canais de quiz serão criados
+idCanalLogsAprovado='' #ID do Canal que vai ficar responsavel por receber logs
+idCanalLogsReprovado='' #ID do Canal que vai ficar responsavel por receber logs
+idCanalLogsStaff='' #ID do Canal que vai ficar responsavel por receber logs
+
+idcargoCidadao=''
+idcargoTurista=''
+
+############## Banco de Dados ##############
+connect='127.0.0.1' #ip da conexão com o banco de dados (obrigatorio)
+port='3306'
+userdb='root' #usuario do banco de dados (obrigatorio)
+passwordb= #caso tenha senha coloque aqui (obrigatorio)
+database='boot' #nome do banco de dados de armazenamento (obrigatorio)

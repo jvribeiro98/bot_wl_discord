@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord-api-types": "^0.37.67",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.3",
+    "events": "^3.3.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.3"
+  },
+  "name": "bot_allow_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
